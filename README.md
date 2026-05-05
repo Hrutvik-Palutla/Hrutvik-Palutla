@@ -2,7 +2,7 @@
 
 You can call me HP.
 
-I'm an undergraduate at The University of Texas at Austin, double majoring in Computer Science and Mathematics. I spend a lot of my time thinking about software, systems, math, research, and the strange little places where all of those things run into each other.
+I'm an undergraduate at UT Austin, double majoring in CS and Math. I spend a lot of time thinking about software, systems, math, research, and the strange little places where all of those things run into each other.
 
 Currently, I'm a TA and researcher at UTCS, an incoming software engineering intern at Visa, and a previous 2x intern and UT research fellow.
 
