@@ -4,7 +4,11 @@ You can call me HP.
 
 I'm an undergraduate at UT Austin, double majoring in CS and Math. I spend a lot of time thinking about software, systems, math, research, and the strange little places where all of those things run into each other.
 
-Currently, I'm a TA and researcher at UTCS, an incoming software engineering intern at Visa, and a previous 2x intern and UT research fellow.
+Currently, I'm a TA and researcher at UTCS.
+
+This summer, I'll be an incoming software engineering intern at Visa.
+
+Previously, I've interned at H-E-B and Trellis and was a UT research fellow.
 
 ---
 
