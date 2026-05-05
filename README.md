@@ -33,10 +33,10 @@ Previously, I've interned at H-E-B and Trellis and was a UT research fellow.
 
 ## Currently exploring
 
-- systems, performance, and energy-efficient computing
-- machine learning for scientific and research problems
-- algorithms, theory, and mathematical problem-solving
-- developer tools, educational software, and things that make hard ideas easier to use
+- systems and infrastructure that make software fast, reliable, and scalable
+- ML/AI tools for scientific, practical, and research-driven problems
+- quantum computing through algorithms, simulation, and linear algebra
+- computational theory through complexity, proofs, and complicated mathematics
 
 ---
 
