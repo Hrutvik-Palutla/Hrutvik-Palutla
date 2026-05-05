@@ -35,17 +35,6 @@ Previously, I've interned at **H-E-B** and **Trellis** and was a **UT research f
 
 ## Currently exploring
 
-<p>
-  <img src="https://img.shields.io/badge/Systems-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Performance-8957e5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Energy--Efficient%20Computing-2da44e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-d73a49?style=flat-square" />
-  <img src="https://img.shields.io/badge/Algorithms-f0883e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Theory-8250df?style=flat-square" />
-  <img src="https://img.shields.io/badge/Developer%20Tools-0969da?style=flat-square" />
-  <img src="https://img.shields.io/badge/Educational%20Software-1a7f37?style=flat-square" />
-</p>
-
 - systems, performance, and energy-efficient computing
 - machine learning for scientific and research problems
 - algorithms, theory, and mathematical problem-solving
@@ -55,9 +44,9 @@ Previously, I've interned at **H-E-B** and **Trellis** and was a **UT research f
 
 ## Outside the terminal
 
-Outside of school, research, and work, I love reading, hiking, playing squash, watching great TV, anime, and generally being a nerd about whatever has captured my attention that week.
+Outside of school, research, and work, I love reading, hiking, playing squash, and watching great TV and anime.
 
-I have a soft spot for big ideas, good stories, and rabbit holes that start with “this will only take five minutes” and somehow end three hours later. South Rim in Big Bend is incredible, *The Big Bang Theory* remains excellent, and I will not be taking questions on that last point.
+I have a soft spot philosophy and rabbit holes that start with “this will only take five minutes” and somehow end three hours later. South Rim in Big Bend is incredible, *The Big Bang Theory* remains excellent, and I will not be taking questions on that last point.
 
 ---
 
