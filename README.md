@@ -42,4 +42,4 @@ Previously, I was a TA (will be returning to being a TA again this Fall) and a r
 
 Outside of school, research, and work, I love reading, hiking, playing squash, and watching great TV and anime.
 
-I like philosophy and good stories, and am a firm believer than *Frieren* and *The Big Bang Theory* are the greatest shows of all time.
+I like philosophy and good stories, and am a firm believer that *Frieren* and *The Big Bang Theory* are the greatest shows of all time.
