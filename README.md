@@ -15,11 +15,11 @@
 
 ---
 
-I'm an undergrad at UT Austin, double majoring in CS and Math. I spend a lot of time thinking about software, systems, math, research, and the strange little places where all of those things run into each other.
+I'm an undergrad at UT Austin, double majoring in CS and Math. 
 
 Currently, I'm a TA and researcher at UTCS.
 
-This summer, I'll be an incoming software engineering intern at Visa.
+This summer, I'm also a software engineering intern at Visa.
 
 Previously, I've interned at H-E-B and Trellis and was a UT research fellow.
 
@@ -44,4 +44,4 @@ Previously, I've interned at H-E-B and Trellis and was a UT research fellow.
 
 Outside of school, research, and work, I love reading, hiking, playing squash, and watching great TV and anime.
 
-I like philosophy, good stories, and accidentally getting way too invested in things I only meant to look up for five minutes. *Frieren* and *The Big Bang Theory* are the greatest shows of all time. I will not be taking questions on that last point.
+I like philosophy and good stories, and am a firm believer than *Frieren* and *The Big Bang Theory* are the greatest shows of all time.
