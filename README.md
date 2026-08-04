@@ -17,11 +17,9 @@
 
 I'm an undergrad at UT Austin, double majoring in CS and Math. 
 
-Currently, I'm a TA and researcher at UTCS.
-
 This summer, I'm also a software engineering intern at Visa.
 
-Previously, I've interned at H-E-B and Trellis and was a UT research fellow.
+Previously, I was a TA (will be returning to being a TA again this Fall) and a researcher at UTCS. I've also interned at H-E-B and Trellis and was a UT research fellow.
 
 <!-- TODO: Add website here once live. -->
 <!-- Website: [Personal Website](https://your-website-here.com) -->
