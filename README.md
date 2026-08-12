@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hrutvikpalutla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hrutvikpalutla%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:hrutvik@outlook.com">
+    <img src="https://img.shields.io/badge/Email-hrutvik%40outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hrutvik-palutla/">
     <img src="https://img.shields.io/badge/LinkedIn-Hrutvik%20Palutla-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
